@@ -1,0 +1,8 @@
+{
+  "name": "Cardio3D: Cardiovascular & CAD Risk Visualizer",
+  "description": "Interactive 3D anatomical cardiovascular risk prediction platform with multi-vessel coronary artery disease mapping, real-time hemodynamic simulations, validated ASCVD calculators, and Gemini clinical intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
